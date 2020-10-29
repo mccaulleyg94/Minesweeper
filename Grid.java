@@ -27,7 +27,7 @@ class Grid extends JFrame {
     private JButton buttons[][];
 
     public Grid() {
-        this(8, 8, 18);
+        this(5, 5, 10);
     }
 
     public Grid(int rows, int cols) {
