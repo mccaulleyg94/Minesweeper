@@ -3,7 +3,7 @@ Produces a grid of x by x buttons with x amount of bombs distributed randomly ac
 On clicking a button:
   If the button is not a bomb:
     The button will return the sum of buttons in its parameter that contain bombs.
-  Else:
+  Else if the button is a bomb:
     The player loses.
    
 McCaulley Granville
